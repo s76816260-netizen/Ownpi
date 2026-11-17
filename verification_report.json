@@ -1,0 +1,994 @@
+{
+  "report_generated_at": "2026-10-23T16:43:16.549713+00:00",
+  "models": [
+    {
+      "provider": "Groq",
+      "model_id": "moonshotai/kimi-k2-instruct",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Groq",
+      "model_id": "moonshotai/kimi-k2-instruct-0905",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Groq",
+      "model_id": "groq/compound",
+      "status": "active",
+      "confirmed_category": "research",
+      "verification_method": "research_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (research_probe verified)"
+    },
+    {
+      "provider": "Groq",
+      "model_id": "llama-3.3-70b-versatile",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Groq",
+      "model_id": "whisper-large-v3-turbo",
+      "status": "active",
+      "confirmed_category": "audio",
+      "verification_method": "audio_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (audio_probe verified)"
+    },
+    {
+      "provider": "Google Gemini",
+      "model_id": "gemini-3.8-flash",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Google Gemini",
+      "model_id": "gemini-3.7-flash",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Google Gemini",
+      "model_id": "gemini-3.6-flash",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Google Gemini",
+      "model_id": "imagen-3.0-generate-002",
+      "status": "active",
+      "confirmed_category": "image",
+      "verification_method": "image_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (image_probe verified)"
+    },
+    {
+      "provider": "Google Gemini",
+      "model_id": "veo-2.0-generate-001",
+      "status": "active",
+      "confirmed_category": "video",
+      "verification_method": "video_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (video_probe verified)"
+    },
+    {
+      "provider": "Cloudflare Workers AI",
+      "model_id": "@cf/mistral/mistral-7b-instruct-v0.1",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cloudflare Workers AI",
+      "model_id": "@cf/qwen/qwen1.5-7b-chat",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cloudflare Workers AI",
+      "model_id": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cloudflare Workers AI",
+      "model_id": "@cf/black-forest-labs/flux-1-schnell",
+      "status": "active",
+      "confirmed_category": "image",
+      "verification_method": "image_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (image_probe verified)"
+    },
+    {
+      "provider": "Cloudflare Workers AI",
+      "model_id": "@cf/baai/bge-large-en-v1.5",
+      "status": "active",
+      "confirmed_category": "embedding",
+      "verification_method": "embed_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (embed_probe verified)"
+    },
+    {
+      "provider": "LLM7.io",
+      "model_id": "gpt-oss-20b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "LLM7.io",
+      "model_id": "mistral-Nemo-Instruct-2407",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "LLM7.io",
+      "model_id": "minimax-m2.7",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Kilo Code",
+      "model_id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Kilo Code",
+      "model_id": "stepfun/step-3.7-flash",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Kilo Code",
+      "model_id": "nvidia/nemotron-3-super-120b-a12b:free",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Mistral AI",
+      "model_id": "open-mistral-7b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Mistral AI",
+      "model_id": "open-mixtral-8x7b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Mistral AI",
+      "model_id": "mistral-medium-3-5-128b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Mistral AI",
+      "model_id": "mistral-ocr-document-latest",
+      "status": "active",
+      "confirmed_category": "pdf",
+      "verification_method": "pdf_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (pdf_probe verified)"
+    },
+    {
+      "provider": "Cohere",
+      "model_id": "command-a-218b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cohere",
+      "model_id": "command-a-111b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cohere",
+      "model_id": "command-r",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cohere",
+      "model_id": "rerank-v3.5",
+      "status": "active",
+      "confirmed_category": "rerank",
+      "verification_method": "rerank_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (rerank_probe verified)"
+    },
+    {
+      "provider": "Hugging Face",
+      "model_id": "meta-llama-3-1-8b-instruct",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Hugging Face",
+      "model_id": "google/gemma-3-4b-it",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Hugging Face",
+      "model_id": "phi-4",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Hugging Face",
+      "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+      "status": "active",
+      "confirmed_category": "image",
+      "verification_method": "image_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (image_probe verified)"
+    },
+    {
+      "provider": "Z AI (Zhipu AI)",
+      "model_id": "glm-4.7-flash",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Z AI (Zhipu AI)",
+      "model_id": "glm-4-5-flash-retirement-announced",
+      "status": "inactive",
+      "confirmed_category": "unknown",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "Model marked deprecated/retired by provider"
+    },
+    {
+      "provider": "Z AI (Zhipu AI)",
+      "model_id": "glm-4.6v-flash",
+      "status": "active",
+      "confirmed_category": "vision",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cerebras",
+      "model_id": "llama3.1-70b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cerebras",
+      "model_id": "zai-glm-4-7-deprecated-aug-2026",
+      "status": "inactive",
+      "confirmed_category": "unknown",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "Model marked deprecated/retired by provider"
+    },
+    {
+      "provider": "Cerebras",
+      "model_id": "zai-glm-4.7",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OpenRouter",
+      "model_id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OpenRouter",
+      "model_id": "nvidia/nemotron-3.5-super-vl:free",
+      "status": "active",
+      "confirmed_category": "vision",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OpenRouter",
+      "model_id": "poolside/laguna-s-2.1:free",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OpenRouter",
+      "model_id": "nvidia/nemotron-3.5-lightning:free",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OpenRouter",
+      "model_id": "perplexity/sonar-deep-research:free",
+      "status": "active",
+      "confirmed_category": "research",
+      "verification_method": "research_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (research_probe verified)"
+    },
+    {
+      "provider": "ModelScope",
+      "model_id": "MiniMax/MiniMax-M2.5",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "ModelScope",
+      "model_id": "qwen-qwen3-5-35b-a3b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "ModelScope",
+      "model_id": "qwen-qwen3-5-27b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OpenCode Zen",
+      "model_id": "big-pickle",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OpenCode Zen",
+      "model_id": "deepseek-v4-flash-free",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OpenCode Zen",
+      "model_id": "mimo-v2.5-free",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Ollama Cloud",
+      "model_id": "deepseek-v4-pro",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Ollama Cloud",
+      "model_id": "deepseek-v4-flash",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Ollama Cloud",
+      "model_id": "minimax-m3",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OVHcloud AI Endpoints",
+      "model_id": "qwen3.5-397b-a17b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OVHcloud AI Endpoints",
+      "model_id": "meta-llama-3_3-70b-instruct",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "OVHcloud AI Endpoints",
+      "model_id": "qwen3.8-27b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Aion Labs",
+      "model_id": "aion-labs-aion-2-0",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Aion Labs",
+      "model_id": "aion-labs-aion-rp-llama-3-1-8b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Aion Labs",
+      "model_id": "aion-labs-aion-3-0",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Agnes AI",
+      "model_id": "agnes-1.5-flash",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Agnes AI",
+      "model_id": "agnes-2.0-flash",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Agnes AI",
+      "model_id": "agnes-image-2.0-flash",
+      "status": "active",
+      "confirmed_category": "image",
+      "verification_method": "image_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (image_probe verified)"
+    },
+    {
+      "provider": "Alibaba Cloud Model Studio",
+      "model_id": "qwen3-max",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Alibaba Cloud Model Studio",
+      "model_id": "qwen3-plus",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Alibaba Cloud Model Studio",
+      "model_id": "qwen3-vl-plus",
+      "status": "active",
+      "confirmed_category": "vision",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cline",
+      "model_id": "cline-free/solar-mini4",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cline",
+      "model_id": "cline-free/nemotron-3.5-super-vl",
+      "status": "active",
+      "confirmed_category": "vision",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Cline",
+      "model_id": "reflection/beam-free",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "SiliconFlow",
+      "model_id": "Qwen/Qwen3-8B",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "SiliconFlow",
+      "model_id": "abbreviation",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "SiliconFlow",
+      "model_id": "deepseek-ai-deepseek-r1-distill-qwen-7b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "SambaNova",
+      "model_id": "deepseek-v3-1",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "SambaNova",
+      "model_id": "deepseek-v3-2-preview",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "SambaNova",
+      "model_id": "minimax-m2-7",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "xAI",
+      "model_id": "grok-4-3",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "xAI",
+      "model_id": "grok-4-1-fast",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "xAI",
+      "model_id": "grok-3-mini",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Chutes.ai",
+      "model_id": "deepseek-ai/DeepSeek-R1",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Chutes.ai",
+      "model_id": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Glhf.chat",
+      "model_id": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Glhf.chat",
+      "model_id": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Grok (xAI)",
+      "model_id": "grok-2",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Grok (xAI)",
+      "model_id": "grok-2-mini",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "AI21 Labs",
+      "model_id": "jamba-large-1-7",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "AI21 Labs",
+      "model_id": "jamba-mini-2",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "DeepSeek",
+      "model_id": "deepseek-chat-v3-2",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "DeepSeek",
+      "model_id": "deepseek-reasoner-r1",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Nscale",
+      "model_id": "llama-3-3-70b-instruct",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Nscale",
+      "model_id": "deepseek-r1-distill-llama-70b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "Nebius",
+      "model_id": "qwen3-235b-a22b",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "NVIDIA NIM",
+      "model_id": "z-ai/glm-5.2",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "NVIDIA NIM",
+      "model_id": "z-ai/glm-5.1",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "NVIDIA NIM",
+      "model_id": "moonshotai/kimi-k2.6",
+      "status": "active",
+      "confirmed_category": "text",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    },
+    {
+      "provider": "NVIDIA NIM",
+      "model_id": "nvidia/nv-embedqa-e5-v5",
+      "status": "active",
+      "confirmed_category": "embedding",
+      "verification_method": "embed_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (embed_probe verified)"
+    },
+    {
+      "provider": "NVIDIA NIM",
+      "model_id": "nvidia/llama-3.2-nv-rerankqa-1b-v2",
+      "status": "active",
+      "confirmed_category": "rerank",
+      "verification_method": "rerank_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (rerank_probe verified)"
+    },
+    {
+      "provider": "NVIDIA NIM",
+      "model_id": "nvidia/nv-document-parse-v1",
+      "status": "active",
+      "confirmed_category": "pdf",
+      "verification_method": "pdf_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (pdf_probe verified)"
+    },
+    {
+      "provider": "NVIDIA NIM",
+      "model_id": "nvidia/cosmos-vision-chat-hybrid",
+      "status": "active",
+      "confirmed_category": "vision",
+      "verification_method": "chat_probe",
+      "last_verified_at": "2026-10-23T16:43:16.549713+00:00",
+      "notes": "200 OK (chat_probe verified)"
+    }
+  ],
+  "summary_by_category": {
+    "text": [
+      "Groq/moonshotai/kimi-k2-instruct",
+      "Groq/moonshotai/kimi-k2-instruct-0905",
+      "Groq/llama-3.3-70b-versatile",
+      "Google Gemini/gemini-3.8-flash",
+      "Google Gemini/gemini-3.7-flash",
+      "Google Gemini/gemini-3.6-flash",
+      "Cloudflare Workers AI/@cf/mistral/mistral-7b-instruct-v0.1",
+      "Cloudflare Workers AI/@cf/qwen/qwen1.5-7b-chat",
+      "Cloudflare Workers AI/@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+      "LLM7.io/gpt-oss-20b",
+      "LLM7.io/mistral-Nemo-Instruct-2407",
+      "LLM7.io/minimax-m2.7",
+      "Kilo Code/nvidia/nemotron-3-ultra-550b-a55b:free",
+      "Kilo Code/stepfun/step-3.7-flash",
+      "Kilo Code/nvidia/nemotron-3-super-120b-a12b:free",
+      "Mistral AI/open-mistral-7b",
+      "Mistral AI/open-mixtral-8x7b",
+      "Mistral AI/mistral-medium-3-5-128b",
+      "Cohere/command-a-218b",
+      "Cohere/command-a-111b",
+      "Cohere/command-r",
+      "Hugging Face/meta-llama-3-1-8b-instruct",
+      "Hugging Face/google/gemma-3-4b-it",
+      "Hugging Face/phi-4",
+      "Z AI (Zhipu AI)/glm-4.7-flash",
+      "Cerebras/llama3.1-70b",
+      "Cerebras/zai-glm-4.7",
+      "OpenRouter/nvidia/nemotron-3-ultra-550b-a55b:free",
+      "OpenRouter/poolside/laguna-s-2.1:free",
+      "OpenRouter/nvidia/nemotron-3.5-lightning:free",
+      "ModelScope/MiniMax/MiniMax-M2.5",
+      "ModelScope/qwen-qwen3-5-35b-a3b",
+      "ModelScope/qwen-qwen3-5-27b",
+      "OpenCode Zen/big-pickle",
+      "OpenCode Zen/deepseek-v4-flash-free",
+      "OpenCode Zen/mimo-v2.5-free",
+      "Ollama Cloud/deepseek-v4-pro",
+      "Ollama Cloud/deepseek-v4-flash",
+      "Ollama Cloud/minimax-m3",
+      "OVHcloud AI Endpoints/qwen3.5-397b-a17b",
+      "OVHcloud AI Endpoints/meta-llama-3_3-70b-instruct",
+      "OVHcloud AI Endpoints/qwen3.8-27b",
+      "Aion Labs/aion-labs-aion-2-0",
+      "Aion Labs/aion-labs-aion-rp-llama-3-1-8b",
+      "Aion Labs/aion-labs-aion-3-0",
+      "Agnes AI/agnes-1.5-flash",
+      "Agnes AI/agnes-2.0-flash",
+      "Alibaba Cloud Model Studio/qwen3-max",
+      "Alibaba Cloud Model Studio/qwen3-plus",
+      "Cline/cline-free/solar-mini4",
+      "Cline/reflection/beam-free",
+      "SiliconFlow/Qwen/Qwen3-8B",
+      "SiliconFlow/abbreviation",
+      "SiliconFlow/deepseek-ai-deepseek-r1-distill-qwen-7b",
+      "SambaNova/deepseek-v3-1",
+      "SambaNova/deepseek-v3-2-preview",
+      "SambaNova/minimax-m2-7",
+      "xAI/grok-4-3",
+      "xAI/grok-4-1-fast",
+      "xAI/grok-3-mini",
+      "Chutes.ai/deepseek-ai/DeepSeek-R1",
+      "Chutes.ai/meta-llama/Meta-Llama-3.1-70B-Instruct",
+      "Glhf.chat/meta-llama/Meta-Llama-3.1-70B-Instruct",
+      "Glhf.chat/mistralai/Mixtral-8x7B-Instruct-v0.1",
+      "Grok (xAI)/grok-2",
+      "Grok (xAI)/grok-2-mini",
+      "AI21 Labs/jamba-large-1-7",
+      "AI21 Labs/jamba-mini-2",
+      "DeepSeek/deepseek-chat-v3-2",
+      "DeepSeek/deepseek-reasoner-r1",
+      "Nscale/llama-3-3-70b-instruct",
+      "Nscale/deepseek-r1-distill-llama-70b",
+      "Nebius/qwen3-235b-a22b",
+      "NVIDIA NIM/z-ai/glm-5.2",
+      "NVIDIA NIM/z-ai/glm-5.1",
+      "NVIDIA NIM/moonshotai/kimi-k2.6"
+    ],
+    "vision": [
+      "Z AI (Zhipu AI)/glm-4.6v-flash",
+      "OpenRouter/nvidia/nemotron-3.5-super-vl:free",
+      "Alibaba Cloud Model Studio/qwen3-vl-plus",
+      "Cline/cline-free/nemotron-3.5-super-vl",
+      "NVIDIA NIM/nvidia/cosmos-vision-chat-hybrid"
+    ],
+    "image": [
+      "Google Gemini/imagen-3.0-generate-002",
+      "Cloudflare Workers AI/@cf/black-forest-labs/flux-1-schnell",
+      "Hugging Face/stabilityai/stable-diffusion-xl-base-1.0",
+      "Agnes AI/agnes-image-2.0-flash"
+    ],
+    "video": [
+      "Google Gemini/veo-2.0-generate-001"
+    ],
+    "audio": [
+      "Groq/whisper-large-v3-turbo"
+    ],
+    "embedding": [
+      "Cloudflare Workers AI/@cf/baai/bge-large-en-v1.5",
+      "NVIDIA NIM/nvidia/nv-embedqa-e5-v5"
+    ],
+    "rerank": [
+      "Cohere/rerank-v3.5",
+      "NVIDIA NIM/nvidia/llama-3.2-nv-rerankqa-1b-v2"
+    ],
+    "pdf": [
+      "Mistral AI/mistral-ocr-document-latest",
+      "NVIDIA NIM/nvidia/nv-document-parse-v1"
+    ],
+    "research": [
+      "Groq/groq/compound",
+      "OpenRouter/perplexity/sonar-deep-research:free"
+    ],
+    "unknown": []
+  }
+}

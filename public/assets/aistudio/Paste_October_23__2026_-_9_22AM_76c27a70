@@ -1,0 +1,894 @@
+[open-free-llm-api](https://github.com/open-free-llm-api)
+[awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis)
+Repository navigation
+[Code](https://github.com/open-free-llm-api/awesome-freellm-apis)
+[Issues3 (3)](https://github.com/open-free-llm-api/awesome-freellm-apis/issues)
+[Pull requests10 (10)](https://github.com/open-free-llm-api/awesome-freellm-apis/pulls)
+[Agents](https://github.com/open-free-llm-api/awesome-freellm-apis/agents?author=s76816260-netizen)
+[Discussions](https://github.com/open-free-llm-api/awesome-freellm-apis/discussions)
+[Actions](https://github.com/open-free-llm-api/awesome-freellm-apis/actions)
+[Projects](https://github.com/open-free-llm-api/awesome-freellm-apis/projects)
+[Security and quality](https://github.com/open-free-llm-api/awesome-freellm-apis/security)
+[Insights](https://github.com/open-free-llm-api/awesome-freellm-apis/pulse)
+[awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis)
+Public
+tT
+[github-actions\[bot\]](https://github.com/open-free-llm-api/awesome-freellm-apis/commits?author=github-actions%5Bbot%5D)
+[chore: sync README from freellm.net data \[skip ci\]](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/406e927b5657e97786e57ea09419a941635ba22c)
+[406e927](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/406e927b5657e97786e57ea09419a941635ba22c) · 12 hours ago
+Name
+[.github](https://github.com/open-free-llm-api/awesome-freellm-apis/tree/main/.github)
+[chore: update funding to use support email](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/7212d0823c34e8de27192c34ebcdb9f609916269)
+4 months ago
+[assets](https://github.com/open-free-llm-api/awesome-freellm-apis/tree/main/assets)
+[style: revert to balanced 2-row marquee to avoid stealing focus](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/d5c29601171dad2720d73cda7486c6941473e023)
+4 months ago
+[code-examples](https://github.com/open-free-llm-api/awesome-freellm-apis/tree/main/code-examples)
+[feat: initial release — 128+ free LLM APIs directory](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/f7e3e103f50d249f2bc3a2df70127eef00dc780e)
+5 months ago
+[CONTRIBUTING.md](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/CONTRIBUTING.md)
+[chore: add community profile templates](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/77233b2a90012d3adc8e6e5370839a7342b986cb)
+4 months ago
+[LICENSE](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/LICENSE)
+[Initial commit](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/b2d2c53f7c19314fdfe8bdc42553f4c0ae9fd7d7)
+5 months ago
+[README.ja.md](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.ja.md)
+[chore: sync README from freellm.net data \[skip ci\]](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/406e927b5657e97786e57ea09419a941635ba22c)
+12 hours ago
+[README.ko.md](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.ko.md)
+[chore: sync README from freellm.net data \[skip ci\]](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/406e927b5657e97786e57ea09419a941635ba22c)
+12 hours ago
+[README.md](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.md)
+[chore: sync README from freellm.net data \[skip ci\]](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/406e927b5657e97786e57ea09419a941635ba22c)
+12 hours ago
+[README.zh-CN.md](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.zh-CN.md)
+[chore: sync README from freellm.net data \[skip ci\]](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/406e927b5657e97786e57ea09419a941635ba22c)
+12 hours ago
+[README.zh-TW.md](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.zh-TW.md)
+[chore: sync README from freellm.net data \[skip ci\]](https://github.com/open-free-llm-api/awesome-freellm-apis/commit/406e927b5657e97786e57ea09419a941635ba22c)
+12 hours ago
+Repository files navigation
+[README](https://github.com/open-free-llm-api/awesome-freellm-apis#)
+[Contributing](https://github.com/open-free-llm-api/awesome-freellm-apis#)
+[MIT license](https://github.com/open-free-llm-api/awesome-freellm-apis#)
+awesome-free-llm-apis
+526+ free LLM APIs from 30 providers — find, compare & configure free models in seconds.
+[🌐 Live at freellm.net](https://freellm.net/) — [Browse models](https://freellm.net/models/) · [Playground](https://freellm.net/playground/) · [Config generator](https://freellm.net/config/) · [API keys](https://freellm.net/free-llm-api-keys/)
+🔄 Data refreshed daily from [freellm.net](https://freellm.net/) — Last updated: 2026-10-23
+🌐 [English](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.md) · [简体中文](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.zh-CN.md) · [繁體中文](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.zh-TW.md) · [日本語](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.ja.md) · [한국어](https://github.com/open-free-llm-api/awesome-freellm-apis/blob/main/README.ko.md)
+Why This Exists
+Finding a free LLM API shouldn't mean hunting through a dozen GitHub READMEs, signing up for five different platforms, or guessing which models still have a free tier.
+This repo is a structured, machine-readable directory of every free LLM API — rate limits, context windows, one-click config snippets, and direct API key links. Updated daily.
+Why this repo + [freellm.net](https://freellm.net/):
+✅ Always up-to-date — data refreshed daily via automated monitoring, not a 2-year-old static list
+✅ Credit card transparency — clearly shows which providers require a card, phone verification, or nothing at all
+✅ One-click configs — ready-to-copy snippets for Claude Code, Cursor, Codex, Aider, and 10+ more tools
+✅ Side-by-side comparison — compare context windows, rate limits, and modalities across providers instantly
+How to Use — 3 Steps
+Pick a provider — see [Provider Directory](https://github.com/open-free-llm-api/awesome-freellm-apis#provider-directory) below. Start with Groq (no credit card, 30 RPM free).
+Get your API key — click any [Get Key →](https://github.com/open-free-llm-api/awesome-freellm-apis#quick-reference--base-urls--api-keys) link below, sign up (most need just an email), and copy your key. Takes < 1 minute.
+Plug it in — copy the base URL + model ID, paste into the [Quick Start](https://github.com/open-free-llm-api/awesome-freellm-apis#quick-start--use-any-free-api-in-30-seconds) examples below.
+Configuring a specific tool? [Claude Code](https://freellm.net/config/#claude-code) · [Cursor](https://freellm.net/config/#cursor) · [Codex](https://freellm.net/config/#codex) · [OpenHuman](https://freellm.net/config/#openhuman) · [OpenCode](https://freellm.net/config/#opencode) · [OpenClaw](https://freellm.net/config/#openclaw) — one-click configs at [freellm.net/config/](https://freellm.net/config/).
+Quick Start — Use Any Free API in 30 Seconds
+Never used an API before? Here's the simplest path: go to [console.groq.com/keys](https://console.groq.com/keys), sign up with just an email (no credit card), copy your free key, and paste it into any example below. You'll be running in under a minute.
+All providers below expose an OpenAI-compatible endpoint. Any tool that accepts baseURL + apiKey works — just swap the base URL and key.
+Python (OpenAI SDK)
+from openai import OpenAI client = OpenAI( base_url="https://api.groq.com/openai/v1", # free, no credit card api_key="GROQ_API_KEY", # get at console.groq.com/keys ) response = client.chat.completions.create( model="llama-3.3-70b-versatile", # see Best Models table below messages=[{"role": "user", "content": "Hello!"}], ) print(response.choices[0].message.content) # Groq free tier: 30 RPM, 14,400 RPD — generous for personal use
+Codex CLI
+export OPENAI_BASE_URL="https://api.groq.com/openai/v1" export OPENAI_API_KEY="your-groq-key" # get at console.groq.com/keys codex --model "llama-3.3-70b-versatile"
+Cursor
+Settings → Models → Add Model Model name: llama-3.3-70b-versatile Base URL: https://api.groq.com/openai/v1 API key: your-groq-key # get at console.groq.com/keys
+Claude Code
+# Claude Code needs an Anthropic-compatible API — use OpenRouter export ANTHROPIC_BASE_URL="https://openrouter.ai/api" export ANTHROPIC_AUTH_TOKEN="sk-or-v1-your-key" # openrouter.ai/keys export ANTHROPIC_API_KEY="" # must be empty # Note: OpenRouter Anthropic models need $10 top-up (one-time)
+Using Other Tools?
+Most AI dev tools accept custom API endpoints — just point them at any provider above. Grab your free key, then:
+Claude Code — set ANTHROPIC_BASE_URL + ANTHROPIC_AUTH_TOKEN. [Step-by-step →](https://freellm.net/config/#claude-code)
+Cursor — Settings → Models → Add Model. [Step-by-step →](https://freellm.net/config/#cursor)
+Codex CLI — set OPENAI_BASE_URL + OPENAI_API_KEY. [Step-by-step →](https://freellm.net/config/#codex)
+OpenHuman — edit config.toml. [Step-by-step →](https://freellm.net/config/#openhuman)
+Aider — edit .aider.conf.yml. [Step-by-step →](https://freellm.net/config/#aider)
+Cline (VS Code) — API provider settings. [Step-by-step →](https://freellm.net/config/#cline)
+Open WebUI — Settings → Connections. [Step-by-step →](https://freellm.net/config/#open-webui)
+More ready-to-copy configs at [freellm.net/config/](https://freellm.net/config/).
+All providers, base URLs, and API key links are in the [Quick Reference](https://github.com/open-free-llm-api/awesome-freellm-apis#quick-reference--base-urls--api-keys) below.
+Provider Directory
+⚡ Permanent Free Tiers
+These providers offer a permanently free tier — no credit card required for most.
+Provider
+Free Models
+Credit Card?
+Max Context
+Modalities
+Get API Key
+NVIDIA NIM
+137
+Phone verification
+1M
+audio, embedding, image, pdf, reasoning, rerank, text, video, vision
+[→](https://build.nvidia.com/settings/api-keys)
+ModelScope
+61
+Registration
+1M
+image, reasoning, text, video, vision
+[→](https://modelscope.cn/my/myaccesstoken)
+Cloudflare Workers AI
+46
+No
+262K
+code, image, reasoning, text, video
+[→](https://dash.cloudflare.com/profile/api-tokens)
+OpenCode Zen
+34
+Registration
+1M
+audio, reasoning, vision
+[→](https://opencode.ai/auth)
+LLM7.io
+24
+No
+1M
+audio, code, image, pdf, reasoning, text, video, vision
+[→](https://token.llm7.io/)
+Kilo Code
+23
+No
+1M
+audio, code, image, reasoning, text, video
+[→](https://app.kilo.ai/profile)
+Google Gemini
+19
+No
+1M
+audio, image, pdf, reasoning, text, video, vision
+[→](https://aistudio.google.com/app/apikey)
+Ollama Cloud
+17
+Registration
+1M
+code, image, reasoning, text, video, vision
+[→](https://ollama.com/settings/keys)
+Mistral AI
+15
+No
+256K
+code, image, pdf, reasoning, text
+[→](https://console.mistral.ai/api-keys)
+OVHcloud AI Endpoints
+15
+Registration
+262K
+code, image, reasoning, text, video
+[→](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/)
+Groq
+12
+No
+262K
+image, reasoning, text, video
+[→](https://console.groq.com/keys)
+Cohere
+12
+No
+256K
+image, text
+[→](https://dashboard.cohere.com/api-keys)
+Aion Labs
+11
+Registration
+131K
+reasoning, text
+[→](https://www.aionlabs.ai/app/api-keys/)
+Hugging Face
+9
+No
+131K
+code, image, text
+[→](https://huggingface.co/settings/tokens)
+Z AI (Zhipu AI)
+8
+No
+200K
+image, reasoning, text, video
+[→](https://open.bigmodel.cn/usercenter/apikeys)
+Cerebras
+6
+No
+131K
+reasoning, text
+[→](https://cloud.cerebras.ai/)
+Agnes AI
+5
+Registration
+256K
+image, reasoning, text, video, vision
+[→](https://platform.agnes-ai.com/settings/apiKeys)
+Alibaba Cloud Model Studio
+5
+Registration
+1M
+code, image, text
+[→](https://bailian.console.alibabacloud.com/?apiKey=1)
+Cline
+5
+Registration
+0
+text, vision
+-
+SiliconFlow
+4
+Registration
+131K
+reasoning, text
+[→](https://cloud.siliconflow.cn/account/ak)
+SambaNova
+4
+Registration
+128K
+image, reasoning, text
+[→](https://cloud.sambanova.ai/apis)
+xAI
+3
+Registration
+2M
+text
+[→](https://console.x.ai/)
+Chutes.ai
+2
+Registration
+131K
+reasoning, text
+[→](https://chutes.ai/)
+Glhf.chat
+2
+Registration
+131K
+text
+[→](https://glhf.chat/)
+Grok (xAI)
+2
+Registration
+131K
+text
+[→](https://console.x.ai/)
+AI21 Labs
+2
+Registration
+256K
+text
+[→](https://studio.ai21.com/account/api-key)
+DeepSeek
+2
+Registration
+128K
+text
+[→](https://platform.deepseek.com/api_keys)
+Nscale
+2
+Registration
+128K
+text
+[→](https://console.nscale.com/)
+Nebius
+1
+Registration
+128K
+text
+[→](https://studio.nebius.com/settings/api-keys)
+💰 Renewable Credits
+Providers that periodically renew free credits.
+Provider
+Free Models
+Credit Model
+Max Context
+Modalities
+Get API Key
+OpenRouter
+38
+Free tier + $10 topup → 1K RPD
+1M
+audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video
+[→](https://openrouter.ai/workspaces/default/keys)
+Quick Reference — Base URLs & API Keys
+Provider
+Base URL
+Get API Key
+Credit Card?
+NVIDIA NIM
+https://integrate.api.nvidia.com/v1
+[Get Key →](https://build.nvidia.com/settings/api-keys)
+Phone verification
+ModelScope
+https://api-inference.modelscope.cn/v1
+[Get Key →](https://modelscope.cn/my/myaccesstoken)
+Registration
+Cloudflare Workers AI
+https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run
+[Get Key →](https://dash.cloudflare.com/profile/api-tokens)
+No
+OpenRouter
+https://openrouter.ai/api/v1
+[Get Key →](https://openrouter.ai/workspaces/default/keys)
+Registration
+OpenCode Zen
+https://opencode.ai/zen/v1
+[Get Key →](https://opencode.ai/auth)
+Registration
+LLM7.io
+https://api.llm7.io/v1
+[Get Key →](https://token.llm7.io/)
+No
+Kilo Code
+https://api.kilo.ai/api/gateway
+[Get Key →](https://app.kilo.ai/profile)
+No
+Google Gemini
+https://generativelanguage.googleapis.com/v1beta
+[Get Key →](https://aistudio.google.com/app/apikey)
+No
+Ollama Cloud
+https://ollama.com/api
+[Get Key →](https://ollama.com/settings/keys)
+Registration
+Mistral AI
+https://api.mistral.ai/v1
+[Get Key →](https://console.mistral.ai/api-keys)
+No
+OVHcloud AI Endpoints
+https://oai.endpoints.kepler.ai.cloud.ovh.net/v1
+[Get Key →](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/)
+Registration
+Groq
+https://api.groq.com/openai/v1
+[Get Key →](https://console.groq.com/keys)
+No
+Cohere
+https://api.cohere.com/v2
+[Get Key →](https://dashboard.cohere.com/api-keys)
+No
+Aion Labs
+https://api.aionlabs.ai/v1
+[Get Key →](https://www.aionlabs.ai/app/api-keys/)
+Registration
+Hugging Face
+https://router.huggingface.co/v1
+[Get Key →](https://huggingface.co/settings/tokens)
+No
+Z AI (Zhipu AI)
+https://open.bigmodel.cn/api/paas/v4
+[Get Key →](https://open.bigmodel.cn/usercenter/apikeys)
+No
+Cerebras
+https://api.cerebras.ai/v1
+[Get Key →](https://cloud.cerebras.ai/)
+No
+Agnes AI
+https://apihub.agnes-ai.com/v1
+[Get Key →](https://platform.agnes-ai.com/settings/apiKeys)
+Registration
+Alibaba Cloud Model Studio
+https://dashscope-intl.aliyuncs.com/compatible-mode/v1
+[Get Key →](https://bailian.console.alibabacloud.com/?apiKey=1)
+Registration
+Cline
+-
+-
+Registration
+SiliconFlow
+https://api.siliconflow.cn/v1
+[Get Key →](https://cloud.siliconflow.cn/account/ak)
+Registration
+SambaNova
+https://api.sambanova.ai/v1
+[Get Key →](https://cloud.sambanova.ai/apis)
+Registration
+xAI
+https://api.x.ai/v1
+[Get Key →](https://console.x.ai/)
+Registration
+Chutes.ai
+https://api.chutes.ai/v1
+[Get Key →](https://chutes.ai/)
+Registration
+Glhf.chat
+https://glhf.chat/api/openai/v1
+[Get Key →](https://glhf.chat/)
+Registration
+Grok (xAI)
+https://api.x.ai/v1
+[Get Key →](https://console.x.ai/)
+Registration
+AI21 Labs
+https://api.ai21.com/studio/v1
+[Get Key →](https://studio.ai21.com/account/api-key)
+Registration
+DeepSeek
+https://api.deepseek.com/v1
+[Get Key →](https://platform.deepseek.com/api_keys)
+Registration
+Nscale
+https://inference.api.nscale.com/v1
+[Get Key →](https://console.nscale.com/)
+Registration
+Nebius
+https://api.studio.nebius.com/v1
+[Get Key →](https://studio.nebius.com/settings/api-keys)
+Registration
+Best Free Models by Provider
+Provider
+Best Free Model
+Model ID
+Max Context
+Rate Limit
+NVIDIA NIM
+[z-ai/glm-5.2](https://freellm.net/models/nvidia-nim/z-ai-glm-5-2/)
+z-ai/glm-5.2
+1M
+Up to 40 RPM
+[z-ai/glm-5.1](https://freellm.net/models/nvidia-nim/z-ai-glm-5-1/)
+z-ai/glm-5.1
+202K
+Up to 40 RPM
+[moonshotai/kimi-k2.6](https://freellm.net/models/nvidia-nim/moonshotai-kimi-k2-6/)
+moonshotai/kimi-k2.6
+262K
+Up to 40 RPM
+ModelScope
+[MiniMax-M2.5-highspeed](https://freellm.net/models/modelscope/minimax-minimax-m2-5/)
+MiniMax/MiniMax-M2.5
+204K
+See provider
+[Qwen/Qwen3.5-35B-A3B](https://freellm.net/models/modelscope/qwen-qwen3-5-35b-a3b/)
+qwen-qwen3-5-35b-a3b
+256K
+2,000 RPD total; <=500 ..
+[Qwen/Qwen3.5-27B](https://freellm.net/models/modelscope/qwen-qwen3-5-27b/)
+qwen-qwen3-5-27b
+256K
+2,000 RPD total; <=500 ..
+Cloudflare Workers AI
+[Mistral 7B](https://freellm.net/models/cloudflare-workers-ai/mistral-mistral-7b-instruct-v0-1/)
+@cf/mistral/mistral-7b-instruct-v0.1
+32K
+See provider
+[Qwen 1.5 7B](https://freellm.net/models/cloudflare-workers-ai/qwen-qwen1-5-7b-chat/)
+@cf/qwen/qwen1.5-7b-chat
+32K
+See provider
+[@cf/meta/llama-3.3-70b-instruct-fp8-fast](https://freellm.net/models/cloudflare-workers-ai/cf-meta-llama-3-3-70b-instruct-fp8-fast/)
+@cf/meta/llama-3.3-70b-instruct-fp8-fast
+24K
+10K neurons/day (shared)
+OpenRouter
+[NVIDIA: Nemotron 3 Ultra (free)](https://freellm.net/models/openrouter/nvidia-nemotron-3-ultra-550b-a55b/)
+nvidia/nemotron-3-ultra-550b-a55b:free
+1M
+See provider
+[NVIDIA: Nemotron 3.5 Super VL (free)](https://freellm.net/models/openrouter/nvidia-nemotron-3.5-super-vl/)
+nvidia/nemotron-3.5-super-vl:free
+1M
+See provider
+[Poolside: Laguna S 2.1 (free)](https://freellm.net/models/openrouter/poolside-laguna-s-2.1/)
+poolside/laguna-s-2.1:free
+262K
+See provider
+OpenCode Zen
+[big-pickle](https://freellm.net/models/opencode/big-pickle/)
+big-pickle
+0
+[DeepSeek V4 Flash](https://freellm.net/models/opencode/deepseek-v4-flash-free/)
+deepseek-v4-flash-free
+1M
+[MiMo-V2.5](https://freellm.net/models/opencode/mimo-v2-5-free/)
+mimo-v2.5-free
+1M
+LLM7.io
+[gpt-oss:20b](https://freellm.net/models/llm7-io/gpt-oss-20b/)
+gpt-oss-20b
+128K
+60 RPM, 250 req/hr (fre..
+[mistral-Nemo-Instruct-2407](https://freellm.net/models/llm7-io/mistral-nemo-instruct-2407/)
+mistral-Nemo-Instruct-2407
+128K
+60 RPM, 250 req/hr (fre..
+[minimax-m2.7](https://freellm.net/models/llm7-io/minimax-m2-7/)
+minimax-m2.7
+180K
+60 RPM, 250 req/hr (fre..
+Kilo Code
+[nvidia/nemotron-3-ultra-550b-a55b:free](https://freellm.net/models/kilo-code/nvidia-nemotron-3-ultra-550b-a55b-free/)
+nvidia/nemotron-3-ultra-550b-a55b:free
+1M
+200 req/hr
+[stepfun/step-3.7-flash:free](https://freellm.net/models/kilo-code/stepfun-step-3-7-flash-free/)
+stepfun/step-3.7-flash
+262K
+200 req/hr
+[nvidia/nemotron-3-super-120b-a12b:free](https://freellm.net/models/kilo-code/nvidia-nemotron-3-super-120b-a12b-free/)
+nvidia/nemotron-3-super-120b-a12b:free
+262K
+200 req/hr
+Google Gemini
+[Gemini 3.8 Flash](https://freellm.net/models/google-gemini/gemini-3-8-flash/)
+gemini-3.8-flash
+1M
+—
+[Gemini 3.7 Flash](https://freellm.net/models/google-gemini/gemini-3-7-flash/)
+gemini-3.7-flash
+1M
+—
+[Gemini 3.6 Flash](https://freellm.net/models/google-gemini/gemini-3-6-flash/)
+gemini-3.6-flash
+1M
+15 RPM, 1,500 RPD
+Ollama Cloud
+[deepseek-v4-pro](https://freellm.net/models/ollama-cloud/deepseek-v4-pro/)
+deepseek-v4-pro
+1M
+Session/weekly limits (..
+[deepseek-v4-flash](https://freellm.net/models/ollama-cloud/deepseek-v4-flash/)
+deepseek-v4-flash
+1M
+Session/weekly limits (..
+[minimax-m3](https://freellm.net/models/ollama-cloud/minimax-m3/)
+minimax-m3
+512K
+Session/weekly limits (..
+Mistral AI
+[Mistral 7B](https://freellm.net/models/mistral-ai/open-mistral-7b/)
+open-mistral-7b
+32K
+See provider
+[Mixtral 8x7B](https://freellm.net/models/mistral-ai/open-mixtral-8x7b/)
+open-mixtral-8x7b
+32K
+See provider
+[Mistral Medium 3.5 (128B)](https://freellm.net/models/mistral-ai/mistral-medium-3-5-128b/)
+mistral-medium-3-5-128b
+256K
+~1 RPS, 500K TPM
+OVHcloud AI Endpoints
+[Qwen3.5-397B-A17B](https://freellm.net/models/ovhcloud-ai-endpoints/qwen3-5-397b-a17b/)
+qwen3.5-397b-a17b
+262K
+2 RPM (anonymous)
+[Meta-Llama-3_3-70B-Instruct](https://freellm.net/models/ovhcloud-ai-endpoints/meta-llama-3-3-70b-instruct/)
+meta-llama-3_3-70b-instruct
+131K
+2 RPM (anonymous)
+[Qwen3.8-27B](https://freellm.net/models/ovhcloud-ai-endpoints/qwen3-8-27b/)
+qwen3.8-27b
+262K
+2 RPM (anonymous)
+Groq
+[Moonshot Kimi K2](https://freellm.net/models/groq/moonshotai-kimi-k2-instruct/)
+moonshotai/kimi-k2-instruct
+131K
+See provider
+[Moonshot Kimi K2 0905](https://freellm.net/models/groq/moonshotai-kimi-k2-instruct-0905/)
+moonshotai/kimi-k2-instruct-0905
+131K
+See provider
+[groq/compound](https://freellm.net/models/groq/groq-compound/)
+groq/compound
+131K
+30 RPM, 250 RPD
+Cohere
+[Command A+ (218B)](https://freellm.net/models/cohere/command-a-218b/)
+command-a-218b
+128K
+20 RPM
+[Command A (111B)](https://freellm.net/models/cohere/command-a-111b/)
+command-a-111b
+256K
+20 RPM
+[Command R+](https://freellm.net/models/cohere/command-r/)
+command-r
+128K
+20 RPM
+Aion Labs
+[aion-labs/aion-2.0](https://freellm.net/models/aion-labs/aion-labs-aion-2-0/)
+aion-labs-aion-2-0
+128K
+15 RPM, 20K TPD
+[aion-labs/aion-rp-llama-3.1-8b](https://freellm.net/models/aion-labs/aion-labs-aion-rp-llama-3-1-8b/)
+aion-labs-aion-rp-llama-3-1-8b
+32K
+15 RPM, 20K TPD
+[aion-labs/aion-3.0](https://freellm.net/models/aion-labs/aion-labs-aion-3-0/)
+aion-labs-aion-3-0
+128K
+15 RPM, 20K TPD
+Hugging Face
+[Meta-Llama-3.1-8B-Instruct](https://freellm.net/models/hugging-face/meta-llama-3-1-8b-instruct/)
+meta-llama-3-1-8b-instruct
+128K
+Credit-metered
+[gemma-3-4b-it](https://freellm.net/models/hugging-face/gemma-3-4b-it/)
+google/gemma-3-4b-it
+131K
+Credit-metered
+[phi-4](https://freellm.net/models/hugging-face/phi-4/)
+phi-4
+16K
+Credit-metered
+Z AI (Zhipu AI)
+[GLM-4.7-Flash](https://freellm.net/models/z-ai-zhipu-ai/glm-4-7-flash/)
+glm-4.7-flash
+200K
+1 concurrent request
+[GLM-4.5-Flash (retirement announced)](https://freellm.net/models/z-ai-zhipu-ai/glm-4-5-flash-retirement-announced/)
+glm-4-5-flash-retirement-announced
+128K
+1 concurrent request
+[GLM-4.6V-Flash](https://freellm.net/models/z-ai-zhipu-ai/glm-4-6v-flash/)
+glm-4.6v-flash
+128K
+1 concurrent request
+Cerebras
+[Llama 3.1 70B](https://freellm.net/models/cerebras/llama3-1-70b/)
+llama3.1-70b
+131K
+See provider
+[zai-glm-4.7 (deprecated Aug 2026)](https://freellm.net/models/cerebras/zai-glm-4-7-deprecated-aug-2026/)
+zai-glm-4-7-deprecated-aug-2026
+131K
+5 RPM, 30K TPM, 1M TPD
+[zai-glm-4.7](https://freellm.net/models/cerebras/zai-glm-4-7/)
+zai-glm-4.7
+128K
+10 RPM, 100 RPD, 1M TPD
+Agnes AI
+[agnes-1.5-flash](https://freellm.net/models/agnes-ai/agnes-1.5-flash/)
+agnes-1.5-flash
+256K
+30 RPM
+[agnes-2.0-flash](https://freellm.net/models/agnes-ai/agnes-2.0-flash/)
+agnes-2.0-flash
+256K
+30 RPM
+[agnes-image-2.0-flash](https://freellm.net/models/agnes-ai/agnes-image-2.0-flash/)
+agnes-image-2.0-flash
+4K
+30 RPM (1K)
+Alibaba Cloud Model Studio
+[Qwen3-Max](https://freellm.net/models/alibaba-cloud-model-studio/qwen3-max/)
+qwen3-max
+128K
+Tiered by region
+[Qwen3-Plus](https://freellm.net/models/alibaba-cloud-model-studio/qwen3-plus/)
+qwen3-plus
+1M
+Tiered by region
+[Qwen3-VL-Plus](https://freellm.net/models/alibaba-cloud-model-studio/qwen3-vl-plus/)
+qwen3-vl-plus
+128K
+Tiered by region
+Cline
+[Solar Mini 4](https://freellm.net/models/cline/cline-free-solar-mini4/)
+cline-free/solar-mini4
+0
+See provider
+[cline-free/nemotron-3.5-super-vl](https://freellm.net/models/cline/cline-free-nemotron-3-5-super-vl/)
+cline-free/nemotron-3.5-super-vl
+0
+See provider
+[Beam](https://freellm.net/models/cline/reflection-beam-free/)
+reflection/beam-free
+0
+See provider
+SiliconFlow
+[Qwen/Qwen3-8B](https://freellm.net/models/siliconflow/qwen-qwen3-8b/)
+Qwen/Qwen3-8B
+128K
+1,000 RPM, 50,000 TPM
+[Abbreviation](https://freellm.net/models/siliconflow/abbreviation/)
+abbreviation
+131K
+See provider
+[deepseek-ai/DeepSeek-R1-Distill-Qwen-7B](https://freellm.net/models/siliconflow/deepseek-ai-deepseek-r1-distill-qwen-7b/)
+deepseek-ai-deepseek-r1-distill-qwen-7b
+131K
+30 RPM, 60K TPM
+SambaNova
+[DeepSeek-V3.1](https://freellm.net/models/sambanova/deepseek-v3-1/)
+deepseek-v3-1
+128K
+20 RPM, 20 RPD, 200K TPD
+[DeepSeek-V3.2 (Preview)](https://freellm.net/models/sambanova/deepseek-v3-2-preview/)
+deepseek-v3-2-preview
+128K
+20 RPM, 20 RPD, 200K TPD
+[MiniMax-M2.7](https://freellm.net/models/sambanova/minimax-m2-7/)
+minimax-m2-7
+128K
+20 RPM, 20 RPD, 200K TPD
+xAI
+[grok-4.3](https://freellm.net/models/xai/grok-4-3/)
+grok-4-3
+1M
+Credit-based
+[grok-4.1-fast](https://freellm.net/models/xai/grok-4-1-fast/)
+grok-4-1-fast
+2M
+Credit-based
+[grok-3-mini](https://freellm.net/models/xai/grok-3-mini/)
+grok-3-mini
+131K
+Credit-based
+Chutes.ai
+[DeepSeek-R1](https://freellm.net/models/chutes-ai/deepseek-ai-deepseek-r1/)
+deepseek-ai/DeepSeek-R1
+131K
+Community-powered, no h..
+[Llama 3.1 70B](https://freellm.net/models/chutes-ai/meta-llama-meta-llama-3-1-70b-instruct/)
+meta-llama/Meta-Llama-3.1-70B-Instruct
+131K
+Community-powered, no h..
+Glhf.chat
+[Llama 3.1 70B](https://freellm.net/models/glhf-chat/meta-llama-meta-llama-3-1-70b-instruct-2/)
+meta-llama/Meta-Llama-3.1-70B-Instruct
+131K
+Unlimited for free models
+[Mixtral 8x7B](https://freellm.net/models/glhf-chat/mistralai-mixtral-8x7b-instruct-v0-1/)
+mistralai/Mixtral-8x7B-Instruct-v0.1
+32K
+Unlimited for free models
+Grok (xAI)
+[Grok-2](https://freellm.net/models/grok-\(xai\)/grok-2/)
+grok-2
+131K
+$25/month free credits,..
+[Grok-2 Mini](https://freellm.net/models/grok-\(xai\)/grok-2-mini/)
+grok-2-mini
+131K
+$25/month free credits,..
+AI21 Labs
+[Jamba Large 1.7](https://freellm.net/models/ai21-labs/jamba-large-1-7/)
+jamba-large-1-7
+256K
+200 RPM, 10 RPS
+[Jamba Mini 2](https://freellm.net/models/ai21-labs/jamba-mini-2/)
+jamba-mini-2
+256K
+200 RPM, 10 RPS
+DeepSeek
+[deepseek-chat (V3.2)](https://freellm.net/models/deepseek/deepseek-chat-v3-2/)
+deepseek-chat-v3-2
+128K
+Dynamic
+[deepseek-reasoner (R1)](https://freellm.net/models/deepseek/deepseek-reasoner-r1/)
+deepseek-reasoner-r1
+128K
+Dynamic
+Nscale
+[Llama-3.3-70B-Instruct](https://freellm.net/models/nscale/llama-3-3-70b-instruct/)
+llama-3-3-70b-instruct
+128K
+Fair-use
+[DeepSeek-R1-Distill-Llama-70B](https://freellm.net/models/nscale/deepseek-r1-distill-llama-70b/)
+deepseek-r1-distill-llama-70b
+128K
+Fair-use
+Nebius
+[Qwen3-235B-A22B](https://freellm.net/models/nebius/qwen3-235b-a22b/)
+qwen3-235b-a22b
+128K
+Tier-based
+🖥️ Local / Self-Hosted (Unlimited, Private, Free Forever)
+Tool
+Type
+Highlights
+[Ollama](https://ollama.com/)
+CLI + API
+100+ models, GPU acceleration, OpenAI-compatible endpoint
+[LM Studio](https://lmstudio.ai/)
+Desktop GUI
+Any GGUF model, built-in model browser, offline
+[llama.cpp](https://github.com/ggerganov/llama.cpp)
+C/C++ engine
+Runs any GGUF, minimal dependencies
+[GPT4All](https://gpt4all.io/)
+Desktop app
+CPU-only, no GPU required, open source
+[Jan.ai](https://jan.ai/)
+Desktop app
+Privacy-focused, 100% offline ChatGPT alternative
+[KoboldCpp](https://github.com/LostRuins/koboldcpp)
+Single executable
+Optimized for creative writing, GGUF
+Top Free Models (by Weekly Usage)
+Data from freellm.net, updated daily via API monitoring.
+Model
+Provider
+Context
+Weekly Usage
+[NVIDIA: Nemotron 3 Ultra (free)](https://freellm.net/models/openrouter/nvidia-nemotron-3-ultra-550b-a55b/)
+OpenRouter
+1M
+4628B tokens
+[z-ai/glm-5.2](https://freellm.net/models/nvidia-nim/z-ai-glm-5-2/)
+NVIDIA NIM
+1M
+2998B tokens
+[NVIDIA: Nemotron 3.5 Super VL (free)](https://freellm.net/models/openrouter/nvidia-nemotron-3.5-super-vl/)
+OpenRouter
+1M
+1384B tokens
+[Poolside: Laguna S 2.1 (free)](https://freellm.net/models/openrouter/poolside-laguna-s-2.1/)
+OpenRouter
+262K
+936B tokens
+[NVIDIA: Nemotron 3.5 Lightning (free)](https://freellm.net/models/openrouter/nvidia-nemotron-3.5-lightning/)
+OpenRouter
+1M
+808B tokens
+[Poolside: Laguna M.1 (free)](https://freellm.net/models/openrouter/poolside-laguna-m-1/)
+OpenRouter
+262K
+768B tokens
+[Dots Studio: Dots3-Note Preview (free)](https://freellm.net/models/openrouter/dots-studio-dots-3-note-preview/)
+OpenRouter
+512K
+644B tokens
+[NVIDIA: Nemotron 3 Super (free)](https://freellm.net/models/openrouter/nvidia-nemotron-3-super-120b-a12b/)
+OpenRouter
+262K
+379B tokens
+[Apodex: Apodex 1.1 Mini (free)](https://freellm.net/models/openrouter/apodex-apodex-1.1-mini/)
+OpenRouter
+262K
+284B tokens
+[z-ai/glm-5.1](https://freellm.net/models/nvidia-nim/z-ai-glm-5-1/)
+NVIDIA NIM
+202K
+158B tokens
+Repository Structure
+awesome-free-llm-apis/ ├── README.md ← Complete provider directory & code examples ├── code-examples/ ← Ready-to-use config snippets │ ├── claude-code.md │ ├── cursor.md │ └── codex.md └── LICENSE ← MIT
+For the full structured dataset with 453 models and daily updates, visit [freellm.net](https://freellm.net/).
+Contributing
+We welcome contributions!
+Add a missing free model — Open an [issue](https://github.com/open-free-llm-api/awesome-free-llm-apis/issues) or submit a PR
+Fix inaccurate data — Rate limits change, providers graduate. PRs welcome
+Add a config snippet — Have a working config for a tool we don't cover? Add it to code-examples/
+Criteria for inclusion
+A model belongs in this list if:
+The provider explicitly offers a free tier (not just a trial credit)
+The API is publicly accessible (no waitlist, closed beta, or reverse-engineering)
+For trial credits: clearly labeled and minimum $1 credit value
+Links
+🌐 Live site: [freellm.net](https://freellm.net/) — search, compare, playground, config generator
+🔑 API key directory: [freellm.net/free-llm-api-keys/](https://freellm.net/free-llm-api-keys/)
+⚙️ Config generator: [freellm.net/config/](https://freellm.net/config/)
+🎮 Playground: [freellm.net/playground/](https://freellm.net/playground/)
+📊 Compare models: [freellm.net/compare/](https://freellm.net/compare/)
+🐍 Python package: [free-llm-models](https://github.com/open-free-llm-api/free-llm-models-python)
+License
+MIT © [open-free-llm-api](https://github.com/open-free-llm-api)
+Last updated: 2026-10-23
+About
+134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
+[freellm.net](https://freellm.net/)
+Topics
+Resources
+[Readme](https://github.com/open-free-llm-api/awesome-freellm-apis#readme-ov-file)
+[MIT license](https://github.com/open-free-llm-api/awesome-freellm-apis#MIT-1-ov-file)
+Contributing
+[Contributing](https://github.com/open-free-llm-api/awesome-freellm-apis#contributing-ov-file)
+[Activity](https://github.com/open-free-llm-api/awesome-freellm-apis/activity)
+[Custom properties](https://github.com/open-free-llm-api/awesome-freellm-apis/custom-properties)
+Stars
+4.6k stars
+Watchers
+40 watching
+Forks
+[729 forks](https://github.com/open-free-llm-api/awesome-freellm-apis/forks)
+[Report repository](https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fopen-free-llm-api%2Fawesome-freellm-apis&report=open-free-llm-api+%28user%29)
+[Releases](https://github.com/open-free-llm-api/awesome-freellm-apis/releases)
+No releases published
+[Packages](https://github.com/orgs/open-free-llm-api/packages?repo_name=awesome-freellm-apis)
+No packages published
+[Contributors](https://github.com/open-free-llm-api/awesome-freellm-apis/graphs/contributors)4 (4)
+[github-actions\[bot\]](https://github.com/github-actions[bot])
+[mujian2026mujian](https://github.com/mujian2026)
+[claudeClaude](https://github.com/claude)
+[mytoolster](https://github.com/mytoolster)
